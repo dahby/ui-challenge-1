@@ -1,0 +1,48 @@
+body {
+  font-size: 20vm;
+}
+
+header {
+  background-color: antiquewhite;
+  height: 75px;
+}
+
+aside {
+  background-color: aqua;
+  height: 125px;
+}
+
+#c {
+  background-color: lightcoral;
+  height: 125px;
+}
+
+#d {
+  background-color: lightseagreen;
+  height: 125px;
+}
+
+#e {
+  background-color: lightgrey;
+  height: 250px;
+}
+
+#f {
+  background-color: lightgoldenrodyellow;
+  height: 250px;
+}
+
+#g {
+  background-color: lightpink;
+  height: 250px;
+}
+
+#h {
+  background-color: lightgreen;
+  height: 250px;
+}
+
+footer {
+  background-color: lightsalmon;
+  height: 80px;
+}

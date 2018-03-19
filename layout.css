@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+header {
+  line-height: 75px;
+}
+
+aside {
+  line-height: 125px;
+}
+
+#c {
+  line-height: 125px;
+}
+
+#d {
+  line-height: 125px;
+}
+
+#e {
+  width: 50%;
+  float: left;
+  line-height: 250px;
+}
+
+#f {
+  line-height: 250px;
+}
+
+#g {
+  width: 50%;
+  float: left;
+  line-height: 250px;
+}
+
+#h {
+  line-height: 250px;
+}
+
+footer {
+  clear: both;
+  line-height: 80px;
+}
